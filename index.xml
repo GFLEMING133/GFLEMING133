@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boston for Beginners</title>
+    <link>https://gfleming133.github.io/boston-for-beginners/</link>
+    <description>Recent content on Boston for Beginners</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 May 2021 13:38:54 -0500</lastBuildDate>
+    
+	<atom:link href="https://gfleming133.github.io/boston-for-beginners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prologue</title>
+      <link>https://gfleming133.github.io/boston-for-beginners/posts/prologue/</link>
+      <pubDate>Thu, 27 May 2021 13:38:54 -0500</pubDate>
+      
+      <guid>https://gfleming133.github.io/boston-for-beginners/posts/prologue/</guid>
+      <description>Who Writes all this Nonsense Anyway? My name isn&amp;rsquo;t Cathy, but it could be. For those of you who don&amp;rsquo;t know me, I&amp;rsquo;m pretty chatty.
+I&amp;rsquo;m also a software engineer, which for reasons beyond my understanding is a profession that some people pick because they don&amp;rsquo;t like talking to other people.
+I therefore experience a condition I call &amp;ldquo;TAIBESE&amp;rdquo; (pronounced tie-bee-zee), short for &amp;ldquo;The Awkward Implications of Being an Extrovert in Software Engineering.</description>
+    </item>
+    
+  </channel>
+</rss>
